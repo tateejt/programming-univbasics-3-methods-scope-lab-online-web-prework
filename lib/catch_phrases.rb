@@ -9,4 +9,5 @@ def toadstool
 end
 
 def link 
+  puts "It's too dangerous "
   
